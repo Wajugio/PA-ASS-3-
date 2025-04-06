@@ -2,7 +2,7 @@ Team Members:
 - Giovanni Derisca 6170712
 - Joseph Woolley 6349901
 - Tobias Reyes 6338792
-
+- Santiago Cacciaguerra Melich 6307324
 Assigned Tasks:
 - Implemented all four allocation strategies in C.
 - Ran simulations using provided parameters.
