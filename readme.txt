@@ -1,5 +1,7 @@
 Team Members:
-- Your Name (Your Panther ID)
+- Giovanni Derisca 6170712
+- Joseph Woolley 6349901
+- 
 
 Assigned Tasks:
 - Implemented all four allocation strategies in C.
